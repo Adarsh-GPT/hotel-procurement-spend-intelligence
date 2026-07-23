@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marriott-procurement-spend-intelligence"
+version = "1.0.0"
+description = "Enterprise Hotel Procurement Spend Intelligence & Strategic Sourcing Engine"
+authors = [
+    { name = "Adarsh Kore" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "openpyxl>=3.1.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0"
+]
+
+[project.scripts]
+marriott-spend = "main:main"

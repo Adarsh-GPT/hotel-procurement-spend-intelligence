@@ -1,0 +1,26 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor Configs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary & Scratch Files
+scratch/
+pdf-forge-exports/
+*.tmp
+*.log
+
+# Heavy Output Datasets (Track raw inputs in data/raw/, ignore large output dumps if desired)
+# reports/Spend_Analysis_Output.xlsx
