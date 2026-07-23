@@ -1,6 +1,6 @@
 """
-Marriott Hotel Procurement Spend Intelligence Package
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hotel Procurement Spend Intelligence Package
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Data Analyst Portfolio - 2019 Spend Intelligence Engine
 """
 

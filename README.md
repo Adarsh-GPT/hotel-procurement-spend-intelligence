@@ -41,7 +41,7 @@ XYZ Company accounts for **68.2% of total Kimberly-Clark spend** across the hote
 ## 📁 Repository Architecture
 
 ```text
-Marriott-Procurement-Spend-Intelligence/
+Hotel-Procurement-Spend-Intelligence/
 ├── data/
 │   ├── raw/                                    # Raw vendor purchase sheets & product lists
 │   │   ├── 123 Company.xlsx
@@ -95,8 +95,8 @@ Marriott-Procurement-Spend-Intelligence/
 ### 1. Environment Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/adarshkore/Marriott-Procurement-Spend-Intelligence.git
-cd Marriott-Procurement-Spend-Intelligence
+git clone https://github.com/Adarsh-GPT/hotel-procurement-spend-intelligence.git
+cd hotel-procurement-spend-intelligence
 
 python -m venv .venv
 # On Windows:

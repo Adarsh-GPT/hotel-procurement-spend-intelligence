@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "marriott-procurement-spend-intelligence"
+name = "hotel-procurement-spend-intelligence"
 version = "1.0.0"
 description = "Enterprise Hotel Procurement Spend Intelligence & Strategic Sourcing Engine"
 authors = [
