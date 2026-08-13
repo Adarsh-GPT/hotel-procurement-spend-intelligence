@@ -56,7 +56,7 @@ Hotel-Procurement-Spend-Intelligence/
 │   └── Submission.docx                         # Formal executive report
 ├── reports/                                    # Executive deliverables & visual assets
 │   ├── dashboard.html                          # Standalone single-page interactive HTML dashboard
-│   ├── Hotel Procurement and Spend Analysis 2019.pbix # Power BI report file
+│   ├── Hotel Procurement and Spend Analysis 2019.pbix # Power BI report file (interactive Power BI dashboard built by the author)
 │   └── figures/                                # 12 publication-quality charts (PNG)
 │       ├── 01_pepsi_spend_by_hotel.png
 │       ├── 02_kc_spend_by_hotel.png
